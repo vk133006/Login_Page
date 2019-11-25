@@ -1,0 +1,19 @@
+
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/brand_main"
+    android:singleLine="true"
+
+    android:layout_marginLeft="@dimen/_10sdp"
+    android:layout_marginTop="@dimen/_10sdp"
+    android:layout_marginRight="@dimen/_10sdp"
+
+    android:padding="@dimen/_8sdp"
+    android:paddingStart="@dimen/_10sdp"
+    android:paddingLeft="@dimen/_10sdp"
+
+
+    android:textColor="@android:color/white"
+    android:gravity="center_vertical" />

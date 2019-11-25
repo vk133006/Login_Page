@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginActivity</string>
+    <string name="signup"><u>Signup</u></string>
+    <string name="state">state*</string>
+</resources>
